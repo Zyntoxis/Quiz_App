@@ -16,7 +16,7 @@ This App contains a huge range from different Subject Areas of the Software Engi
 
 
 
->## Funktions
+>## Functions
 
 - __Topic-specific questions__ :  Questions about Programming, Databases, Network and IT-Securtity. 
 - __Multiple Quiz-Modes__ : Practice mode, Time mode, Examination mode.
